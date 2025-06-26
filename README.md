@@ -6,7 +6,7 @@ It aims to introduce the standard, most useful functions in C programming by hav
 
 Students are then required to only use this libft library when coding C projects at 42.
 
-It introduced me to low-level programming and taught me you can never be too sure unless you can predict anything that will happen. Having to implement functions, like strcat or strcpy, which are vulnerable to segfaults made me so much more aware of the bounds in C, but more importantly about why they exist. As a programmer, this is necessary: we must destroy everything we create, and to do so we must be aware of everything we create, why and where.
+It introduced me to the core of C programming. Having to implement functions like strcat or strcpy, which are vulnerable to segfaults, made me so much more aware of the bounds in C, but more importantly about why they exist. As a programmer, this is necessary: we must destroy everything we create, because it is not about creating but about allocating. So we must be aware of why, how much, and where we decide to make space.
 
 
 **Mandatory Part** (100 points):
