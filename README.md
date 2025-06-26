@@ -9,7 +9,7 @@ Students are then required to only use this "libft" library when coding C projec
 
 **Mandatory Part** (100 points):
 
-_1) Implementation of a set of functions from the libc:_
+_1) Implementation of a set of functions from the libc_
    
 • isalpha
 
@@ -57,7 +57,7 @@ _1) Implementation of a set of functions from the libc:_
 
 • strdup
 
-_2) Implementation of other useful functions not included in the libc:_
+_2) Implementation of other useful functions not included in the libc_
 
 • substr
 
