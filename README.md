@@ -80,7 +80,7 @@ _2) Implementation of other useful functions not included in the libc:_
 • putnbr_fd
 
 
-_**Bonus part** (25 points)_
+**Bonus part** (25 points)
 
 _Implementation of list manipulation functions_
 
