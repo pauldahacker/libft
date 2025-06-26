@@ -4,7 +4,7 @@ The PDF of the original subject is attached.
 
 It aims to introduce the standard, most useful functions in C programming by having students implement them.
 
-Students are then required to only use this libft library when coding C projects at 42.
+Most of the later C projects use these libft functions.
 
 It introduced me to the core of C programming. Having to implement functions like strcat or strcpy, which are vulnerable to segfaults, made me so much more aware of the bounds in C, but more importantly about why they exist. As a programmer, this is necessary: we must destroy everything we create, because it is not about creating but about allocating. So we must be aware of why, how much, and where we decide to make space.
 
