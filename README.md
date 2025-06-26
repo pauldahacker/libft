@@ -105,3 +105,5 @@ _Implementation of list manipulation functions_
 • lstiter
 
 • lstmap
+
+My grade: 125
