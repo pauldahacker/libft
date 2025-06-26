@@ -1,5 +1,7 @@
 **Libft is the first project at 42 (Passed with 125/100).**
 
+The PDF of the original subject is attached.
+
 It aims to introduce the standard, most useful functions in C programming by having students implement them.
 
 Students are then required to only use this "libft" library when coding C projects at 42.
