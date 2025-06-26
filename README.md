@@ -4,9 +4,9 @@ The PDF of the original subject is attached.
 
 It aims to introduce the standard, most useful functions in C programming by having students implement them.
 
-Students are then required to only use this "libft" library when coding C projects at 42.
+Students are then required to only use this libft library when coding C projects at 42.
 
-For me, it seriously changed the way I saw programming. It introduced me to the art of low-level programming: you can never be too sure unless you can predict ANYTHING that will happen. Having to implement functions, like strcat or strcpy, which are vulnerable to segfaults made me so much more aware of the bounds in C, but more importantly about why they exist. As a programmer, this is necessary: we must destroy everything we create, and to do so we must be aware of everything we create and why.
+It introduced me to low-level programming and taught me you can never be too sure unless you can predict anything that will happen. Having to implement functions, like strcat or strcpy, which are vulnerable to segfaults made me so much more aware of the bounds in C, but more importantly about why they exist. As a programmer, this is necessary: we must destroy everything we create, and to do so we must be aware of everything we create, why and where.
 
 
 **Mandatory Part** (100 points):
