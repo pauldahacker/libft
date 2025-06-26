@@ -5,7 +5,7 @@ It aims to introduce the standard, most useful functions in C programming by hav
 Students are then required to only use this "libft" library when coding C projects at 42.
 
 
-**Mandatory Part** (100 points):
+_**Mandatory Part** (100 points):_
 
 **1) Implementation of a set of functions from the libc:**
    
@@ -80,17 +80,9 @@ Students are then required to only use this "libft" library when coding C projec
 • putnbr_fd
 
 
-**Bonus part** (25 points)
+_**Bonus part** (25 points)_
 
 **Implementation of list manipulation functions:**
-
-We declare a list structure as:
-
-typedef struct s_list
-{
-	void *content;
-	struct s_list *next;
-}
 
 • lstnew
 
