@@ -5,9 +5,9 @@ It aims to introduce the standard, most useful functions in C programming by hav
 Students are then required to only use this "libft" library when coding C projects at 42.
 
 
-_**Mandatory Part** (100 points):_
+**Mandatory Part** (100 points):
 
-**1) Implementation of a set of functions from the libc:**
+_1) Implementation of a set of functions from the libc:_
    
 • isalpha
 
@@ -55,7 +55,7 @@ _**Mandatory Part** (100 points):_
 
 • strdup
 
-**2) Implementation of other useful functions not included in the libc:**
+_2) Implementation of other useful functions not included in the libc:_
 
 • substr
 
@@ -82,7 +82,7 @@ _**Mandatory Part** (100 points):_
 
 _**Bonus part** (25 points)_
 
-**Implementation of list manipulation functions:**
+_Implementation of list manipulation functions_
 
 • lstnew
 
