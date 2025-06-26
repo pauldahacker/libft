@@ -1,4 +1,4 @@
-**Libft is the first project at 42 (Passed with 125/100).**
+**Libft is the first project at 42**
 
 The PDF of the original subject is attached.
 
