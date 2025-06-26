@@ -1,4 +1,4 @@
-**Libft is the first project at 42**
+**libft is the first project at 42**
 
 The PDF of the original subject is attached.
 
