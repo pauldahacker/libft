@@ -2,7 +2,7 @@
 
 It aims to introduce the standard, most useful functions in C programming by having students implement them.
 
-Students are then required to only use their own "libft" library when coding C projects at 42.
+Students are then required to only use this "libft" library when coding C projects at 42.
 
 
 **Mandatory Part** (100 points):
@@ -83,6 +83,14 @@ Students are then required to only use their own "libft" library when coding C p
 **Bonus part** (25 points)
 
 **Implementation of list manipulation functions:**
+
+We declare a list structure as:
+
+typedef struct s_list
+{
+	void *content;
+	struct s_list *next;
+}
 
 • lstnew
 
